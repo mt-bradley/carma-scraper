@@ -1,0 +1,32 @@
+[
+    {
+        "image_url": "https://img.carma.com.au/440687/360doorsclosed/440687_XC_02_250318_0046.jpg?tr=f-auto,w-400,q-70",
+        "image_file": "card_image_1.jpg",
+        "title": "2018 NISSAN QASHQAI",
+        "variant": "TI",
+        "distance": "54,582 km",
+        "transmission": "Automatic",
+        "price": "$24,990",
+        "repayment_info": "est.$123/wkbased on10.02%p.a."
+    },
+    {
+        "image_url": "https://img.carma.com.au/658766/360doorsclosed/658766_XC_02_250318_0213.jpg?tr=f-auto,w-400,q-70",
+        "image_file": "card_image_2.jpg",
+        "title": "2022 GWM HAVAL H6GT",
+        "variant": "ULTRA (4WD)",
+        "distance": "45,378 km",
+        "transmission": "Automatic",
+        "price": "$29,990",
+        "repayment_info": "est.$147/wkbased on10.02%p.a."
+    },
+    {
+        "image_url": "https://img.carma.com.au/203048/360doorsclosed/203048_XC_02_250317_0008.jpg?tr=f-auto,w-400,q-70",
+        "image_file": "card_image_3.jpg",
+        "title": "2023 MITSUBISHI OUTLANDER",
+        "variant": "EXCEED 7 SEAT (AWD)",
+        "distance": "16,486 km",
+        "transmission": "Automatic",
+        "price": "$46,490",
+        "repayment_info": "est.$228/wkbased on10.02%p.a."
+    }
+]
