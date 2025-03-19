@@ -1,36 +1,6 @@
 # Carma Scraper
 
-This project is a Python-based web scraper that extracts product details from [Carma](https://carma.com.au/). It downloads the top 3 product images and extracts details such as title, variant, distance, transmission, price, and repayment information. The scraped data is saved in a JSON file, and images are organized in an `img` folder.
-
-## Project Files
-
-The repository includes the following files and directories:
-
-1. **`/img`**  
-   - A directory for storing downloaded images.  
-   - This folder is created automatically at runtime if it doesn't exist.
-
-2. **`.dockerignore`**  
-   - Excludes unnecessary files (such as the local virtual environment and Python cache files) from being copied into the Docker image.
-
-3. **`.gitignore`**  
-   - Specifies files and directories that Git should ignore (e.g., the `venv/` folder, `__pycache__`, etc.).
-
-4. **`Dockerfile`**  
-   - Contains the instructions for building the Docker container for this project.
-
-5. **`carma-scraper.tar`**  
-   - (Optional) An exported Docker image archive of the project.  
-   - This file can be loaded using `docker load -i carma-scraper.tar`.
-
-6. **`carma_scraped_data.json`**  
-   - The JSON file where the scraped product data is stored.
-
-7. **`main.py`**  
-   - The main Python script containing the web scraping logic.
-
-8. **`requirements.txt`**  
-   - Lists the Python dependencies required to run the project.
+This project is a Python-based web scraper that extracts product details from the Carma website. Proof of concept for DCO to scrape web data for a live build. It downloads the top 3 product images and extracts details such as title, variant, distance, transmission, price, and repayment information. The scraped data is saved in a JSON file, and images are organized in an `img` folder.
 
 ## Prerequisites
 
